@@ -1,0 +1,30 @@
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Business.deps.json
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Business.dll
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Business.pdb
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Common.dll
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Data.dll
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Common.pdb
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Data.pdb
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.csprojAssemblyReference.cache
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.AssemblyInfoInputs.cache
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.AssemblyInfo.cs
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.csproj.CoreCompileInputs.cache
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.csproj.CopyComplete
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.dll
+E:\BenchAssignment\OnlineShoppingApplication\OnlineShoppingApplication-FrontendAndBackend\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.pdb
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Business.deps.json
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Business.dll
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Business.pdb
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Common.dll
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Data.dll
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Common.pdb
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\bin\Debug\netcoreapp3.1\OnlineShoppingServices.Data.pdb
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.csprojAssemblyReference.cache
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.AssemblyInfoInputs.cache
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.AssemblyInfo.cs
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.csproj.CoreCompileInputs.cache
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.csproj.CopyComplete
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.dll
+E:\BenchAssignment\POC\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.pdb
+E:\BenchAssignment\Venusha\real time data-angular\.NetCore-Unit-testing---Functional-testing-Moq-and-In-Memory-concepts-\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.AssemblyInfoInputs.cache
+E:\BenchAssignment\Venusha\real time data-angular\.NetCore-Unit-testing---Functional-testing-Moq-and-In-Memory-concepts-\OnlineShopping-Backend\OnlineShoppingServices.Business\obj\Debug\netcoreapp3.1\OnlineShoppingServices.Business.AssemblyInfo.cs
